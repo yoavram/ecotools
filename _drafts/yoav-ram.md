@@ -1,10 +1,10 @@
 ---
 layout: interview
-title: Tim Poisot
-shortbio: Post-doc in community ecology
-blob: I'm a community ecologist fascinated by the variability of species interaction networks. Most of my research is theoretical, so I use a lot of different software; but I also spend some time in the lab, fooling around with microbes!
+title: Yoav Ram
+shortbio: PhD student at the The Evolutionary Theory Lab at Tel-Aviv University
+blob: I'm a theoretical evolutionary biologist graduate student, studying on the effect of stress on the evolution of the mutation rate using mathematical and computational tools.
 isinterview: true
-photo: http://placekitten.com/500/335
+photo: https://sites.google.com/site/hadanylab/_/rsrc/1343286310597/people/yoav_mypictr_Facebook.jpg
 ---
 
 #Who are you and what do you do?
